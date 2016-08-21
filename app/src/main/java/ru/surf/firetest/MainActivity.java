@@ -1,4 +1,4 @@
-package ru.surf.firetest.firebasetest;
+package ru.surf.firetest;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
