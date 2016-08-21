@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:414362412278:android:b8d01174ca17279d",
+        "mobilesdk_app_id": "1:414362412278:android:cda66caee7b8bce7",
         "android_client_info": {
-          "package_name": "ru.surf.firetest.firebasetest"
+          "package_name": "ru.surf.firetest"
         }
       },
       "oauth_client": [
